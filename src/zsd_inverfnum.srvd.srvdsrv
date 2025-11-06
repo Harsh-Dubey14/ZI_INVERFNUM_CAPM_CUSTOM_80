@@ -1,0 +1,4 @@
+@EndUserText.label: 'IRN Details'
+define service ZSD_INVERFNUM {
+  expose ZUI_INVREFNUM1;
+}
